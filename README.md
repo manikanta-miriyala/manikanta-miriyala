@@ -7,7 +7,7 @@
 🚀 MERN Stack | Data Structures with Java  
 
 💻 All My Projects  
-🔗 [Personal Portfolio](https://farvejfaru.github.io/Personal-Portfolio/) 
+🔗 [Personal Portfolio](https://manikanta-miriyala.github.io/personal-portfolio/) 
 
 💬 Ask Me About  
 🔥 JavaScript, Python, MERN Stack, Data Structures  
